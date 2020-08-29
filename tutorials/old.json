@@ -1,0 +1,177 @@
+{
+    "data": [
+        {
+            "id": 578,
+            "fnetwgt": 25,
+            "ftrack": "1620128002",
+            "fboxseq": "",
+            "frectype": "O",
+            "fcustcode": "0022194",
+            "flot": "26656",
+            "fwho": "RJJ",
+            "fdatestamp": "2016-05-27",
+            "ftimestamp": "12:50"
+        },
+        {
+            "id": 579,
+            "fnetwgt": 25,
+            "ftrack": "1620128002",
+            "fboxseq": "",
+            "frectype": "O",
+            "fcustcode": "0022194",
+            "flot": "26656",
+            "fwho": "RJJ",
+            "fdatestamp": "2016-05-27",
+            "ftimestamp": "12:50"
+        },
+        {
+            "id": 580,
+            "fnetwgt": 25,
+            "ftrack": "1620128002",
+            "fboxseq": "",
+            "frectype": "O",
+            "fcustcode": "0022194",
+            "flot": "26656",
+            "fwho": "RJJ",
+            "fdatestamp": "2016-05-27",
+            "ftimestamp": "12:50"
+        },
+        {
+            "id": 581,
+            "fnetwgt": 25,
+            "ftrack": "1620128002",
+            "fboxseq": "",
+            "frectype": "O",
+            "fcustcode": "0022194",
+            "flot": "26656",
+            "fwho": "RJJ",
+            "fdatestamp": "2016-05-27",
+            "ftimestamp": "12:50"
+        },
+        {
+            "id": 582,
+            "fnetwgt": 25,
+            "ftrack": "1620128002",
+            "fboxseq": "",
+            "frectype": "O",
+            "fcustcode": "0022194",
+            "flot": "26656",
+            "fwho": "RJJ",
+            "fdatestamp": "2016-05-27",
+            "ftimestamp": "12:50"
+        },
+        {
+            "id": 583,
+            "fnetwgt": 25,
+            "ftrack": "1620128002",
+            "fboxseq": "",
+            "frectype": "O",
+            "fcustcode": "0022194",
+            "flot": "26656",
+            "fwho": "RJJ",
+            "fdatestamp": "2016-05-27",
+            "ftimestamp": "12:50"
+        },
+        {
+            "id": 584,
+            "fnetwgt": 25,
+            "ftrack": "1620128002",
+            "fboxseq": "",
+            "frectype": "O",
+            "fcustcode": "0022194",
+            "flot": "26656",
+            "fwho": "RJJ",
+            "fdatestamp": "2016-05-27",
+            "ftimestamp": "12:50"
+        },
+        {
+            "id": 585,
+            "fnetwgt": 25,
+            "ftrack": "1620128002",
+            "fboxseq": "",
+            "frectype": "O",
+            "fcustcode": "0022194",
+            "flot": "26656",
+            "fwho": "RJJ",
+            "fdatestamp": "2016-05-27",
+            "ftimestamp": "12:50"
+        },
+        {
+            "id": 586,
+            "fnetwgt": 25,
+            "ftrack": "1620128002",
+            "fboxseq": "",
+            "frectype": "O",
+            "fcustcode": "0022194",
+            "flot": "26656",
+            "fwho": "RJJ",
+            "fdatestamp": "2016-05-27",
+            "ftimestamp": "12:50"
+        },
+        {
+            "id": 587,
+            "fnetwgt": 25,
+            "ftrack": "1620128002",
+            "fboxseq": "",
+            "frectype": "O",
+            "fcustcode": "0022194",
+            "flot": "26656",
+            "fwho": "RJJ",
+            "fdatestamp": "2016-05-27",
+            "ftimestamp": "12:50"
+        },
+        {
+            "id": 588,
+            "fnetwgt": 25,
+            "ftrack": "1620128002",
+            "fboxseq": "",
+            "frectype": "O",
+            "fcustcode": "0022194",
+            "flot": "26656",
+            "fwho": "RJJ",
+            "fdatestamp": "2016-05-27",
+            "ftimestamp": "12:50"
+        },
+        {
+            "id": 589,
+            "fnetwgt": 25,
+            "ftrack": "1620128002",
+            "fboxseq": "",
+            "frectype": "O",
+            "fcustcode": "0022194",
+            "flot": "26656",
+            "fwho": "RJJ",
+            "fdatestamp": "2016-05-27",
+            "ftimestamp": "12:50"
+        },
+        {
+            "id": 590,
+            "fnetwgt": 25,
+            "ftrack": "1620128002",
+            "fboxseq": "",
+            "frectype": "O",
+            "fcustcode": "0022194",
+            "flot": "26656",
+            "fwho": "RJJ",
+            "fdatestamp": "2016-05-27",
+            "ftimestamp": "12:50"
+        }
+    ],
+    "meta": {
+        "runningQty": 13,
+        "runningWgt": 325,
+        "fcustcode": "0022194",
+        "fqty": 13
+    },
+    "page": 1,
+    "limit": 20,
+    "count": 13,
+    "pages": 1,
+    "links": {
+        "self": "page=1&filterBy=&filterValue=",
+        "first": null,
+        "last": null,
+        "prev": null,
+        "next": null
+    }
+}

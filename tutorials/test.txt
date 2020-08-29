@@ -1,0 +1,40 @@
+
+// const lookUpTable = {
+//     X: (param) => {
+//         if (param > 0) {
+//          return param + 1;
+//         }
+//     },
+//     Y: (param) => {
+//         if (param > 0) {
+//          return param + 2;
+//         }
+//     }
+// }
+
+// const someOption = "X";
+// const someParam = 3;
+
+// if (lookUpTable[someOption]) {
+//     const value = lookUpTable[someOption](someParam)
+// }
+
+// console.log(value);
+
+// @here Tareas para este sprint: 
+
+https://lineagelogistics.atlassian.net/browse/LFR-2063 - La idea de esta es complementar la funcionalidad existente con validaciones agregadas en el
+tech audit o si hay un dato que se nos paso guardar lo guardamos. 
+Por ejemplo: Aqui lo que puedo entender es hay que estar seguro que no podamos guardar un Misc Charge si no tiene un Misc Code y ademas al guardar hay 
+que actualizar otra columnas como `INVPEND.FWHO`, `INVPEND.FDATESTAMP`, `INVPEND.FTIMESTAMP`. 
+@joel por favor comienza con esta desde hoy ya que sera la que oficialmente esperare. Igualmente evaluala y analizala. 
+
+
+https://lineagelogistics.atlassian.net/browse/LFR-1864 - BE Ticket, se ve simple pero siento que faltan datos en el Tech Audit. Ademas del proceso de eliminado
+hay que agregar un endpoint de autocomple (si no existe).
+@gabriel Revisa y me avisas por favor. Puedes comenzar cuando quieras realmente jaja
+
+Cualquier pregunta me dicen.
+
+
+
