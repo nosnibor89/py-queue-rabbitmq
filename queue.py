@@ -1,5 +1,4 @@
 import pika
-from model import Payment
 
 _exchange_name = 'payment_purchase_topic'
 _purchase_order_queue_name = '_purchase_order_queue_name'
